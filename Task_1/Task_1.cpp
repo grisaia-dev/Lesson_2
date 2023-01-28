@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 enum class Month {
-	January,
+	January = 1,
 	February,
 	March,
 	April,
